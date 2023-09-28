@@ -4,7 +4,8 @@ This is my github repo for learning python. I will be working on replit website 
 
 ### Day 1 / 100
 ```
-#Day 1/100 - Strings and Printing Output
+# Day 1/100 - Strings and Printing Output
+# Using 3 double quotes can be used to print a lot of words in exactly the format you want rather than printing all on one line.
 
 print("""Alex
 July 21st, 2019
