@@ -30,3 +30,7 @@ print("Thank you for your input!")
 print()
 print(f"So you are {userName}, your favorite food is {userFood}, your favorite music genre is {userMusic}, and you live in the great state of {userHome}. That's really cool! ")
 ```
+
+### Day 3 / 100
+```
+```
