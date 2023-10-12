@@ -1,4 +1,4 @@
-### Day 5 / 100
+### Day 6 / 100
 #elif statements can be used to do add additional conditions to if statements that might also be true or trigger events.
 #can use "and" or "or" statements to also give more conditions on top of that.
 ```
